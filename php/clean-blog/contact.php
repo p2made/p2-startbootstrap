@@ -14,13 +14,13 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 	<!-- Core theme CSS (includes Bootstrap)-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
+	<link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body>
 	<!-- Navigation-->
 	<nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
 		<div class="container px-4 px-lg-5">
-			<a class="navbar-brand" href="index.php">Start Bootstrap</a>
+			<a class="navbar-brand" href="index.php">Blog</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				Menu
 				<i class="fas fa-bars"></i>
