@@ -5,10 +5,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Scrolling Nav - Start Bootstrap Template</title>
-	<link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+	<title>Scrolling Nav</title>
+	<link type="image/x-icon" href="assets/img/favicon.ico" rel="icon">
 	<!-- Core theme CSS (includes Bootstrap)-->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
 	<link href="assets/css/scrolling-nav.css" rel="stylesheet">
 </head>
 <body id="page-top">
