@@ -9,7 +9,7 @@
 	<!-- Favicon-->
 	<link type="image/x-icon" href="assets/img/favicon.ico" rel="icon">
 	<!-- Bootstrap Icons-->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
 	<!-- Google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
@@ -17,7 +17,7 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet">
 	<!-- Core theme CSS (includes Bootstrap)-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/creative.css" rel="stylesheet">
+	<link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body id="page-top">
 	<!-- Navigation-->
@@ -105,8 +105,8 @@
 		<div class="container-fluid p-0">
 			<div class="row g-0">
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/1.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/1.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="...">
 						<div class="portfolio-box-caption">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -114,8 +114,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/2.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/2.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="...">
 						<div class="portfolio-box-caption">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -123,8 +123,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/3.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/3.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="...">
 						<div class="portfolio-box-caption">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -132,8 +132,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/4.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/4.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/4.jpg" alt="...">
 						<div class="portfolio-box-caption">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -141,8 +141,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/5.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/5.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpg" alt="...">
 						<div class="portfolio-box-caption">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -150,8 +150,8 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<a class="portfolio-box" href="assets/img/creative/portfolio/fullsize/6.jpg" title="Project Name">
-						<img class="img-fluid" src="assets/img/new-age/creative/portfolio/thumbnails/6.jpg" alt="...">
+					<a class="portfolio-box" href="assets/img/portfolio/fullsize/6.jpg" title="Project Name">
+						<img class="img-fluid" src="assets/img/portfolio/thumbnails/6.jpg" alt="...">
 						<div class="portfolio-box-caption p-3">
 							<div class="project-category text-white-50">Category</div>
 							<div class="project-name">Project Name</div>
@@ -221,7 +221,7 @@
 							<div class="text-center mb-3">
 								<div class="fw-bolder">Form submission successful!</div>
 								To activate this form, sign up at
-								<br />
+								<br>
 								<a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
 							</div>
 						</div>
@@ -250,9 +250,9 @@
 	<!-- Bootstrap core JS-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 	<!-- SimpleLightbox plugin JS-->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js" integrity="sha512-OYtVuAy6KSuCAf0HG9j12VF96ehWm00yWBkYAqwzOkGV4WLPCWlOY1q1C3Mr4ouohyL5vEPqTulTyDlT7AHoGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<!-- Core theme JS-->
-	<script src="assets/js/creative.js"></script>
+	<script src="assets/js/scripts.js"></script>
 	<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 	<!-- * *							   SB Forms JS							   * *-->
 	<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
