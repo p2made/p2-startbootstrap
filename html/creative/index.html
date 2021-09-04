@@ -7,7 +7,7 @@
 	<meta name="author" content="">
 	<title>Creative</title>
 	<!-- Favicon-->
-	<link type="image/x-icon" href="assets/img/favicon.ico" rel="icon">
+	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
 	<!-- Bootstrap Icons-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
 	<!-- Google fonts-->

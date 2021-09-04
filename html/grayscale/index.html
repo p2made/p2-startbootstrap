@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<title>Grayscale</title>
-	<link type="image/x-icon" href="assets/img/favicon.ico" rel="icon">
+	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
 	<!-- Font Awesome icons (free version)-->
 	<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous" rel="stylesheet">
 	<!-- Google fonts-->
