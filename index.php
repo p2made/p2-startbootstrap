@@ -42,59 +42,6 @@
 	<div class="container">
 
 		<div class="row justify-content-center">
-			<!-- Intermediate Layouts -->
-			<div class='col-lg-4'>
-				<h2>Intermediate Layouts</h2>
-				<table class='table'>
-					<tbody>
-						<tr>
-							<th scope='row'>Agency</th>
-							<td><a href='html/agency/index.html' target='_blank'>html</a></td>
-							<td><a href='php/agency/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Coming Soon</th>
-							<td><a href='html/coming-soon/index.html' target='_blank'>html</a></td>
-							<td><a href='php/coming-soon/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Creative</th>
-							<td><a href='html/creative/index.html' target='_blank'>html</a></td>
-							<td><a href='php/creative/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Freelancer</th>
-							<td><a href='html/freelancer/index.html' target='_blank'>html</a></td>
-							<td><a href='php/freelancer/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Grayscale</th>
-							<td><a href='html/grayscale/index.html' target='_blank'>html</a></td>
-							<td><a href='php/grayscale/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Landing Page</th>
-							<td><a href='html/landing-page/index.html' target='_blank'>html</a></td>
-							<td><a href='php/landing-page/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>New Age</th>
-							<td><a href='html/new-age/index.html' target='_blank'>html</a></td>
-							<td><a href='php/new-age/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>One Page Wonder</th>
-							<td><a href='html/one-page-wonder/index.html' target='_blank'>html</a></td>
-							<td><a href='php/one-page-wonder/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Resume</th>
-							<td><a href='html/resume/index.html' target='_blank'>html</a></td>
-							<td><a href='php/resume/index.php' target='_blank'>php</a></td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
 			<!-- Complex Layouts -->
 			<div class='col-lg-4'>
 				<h2>Complex Layouts</h2>
@@ -147,6 +94,59 @@
 							<th scope='row'>_layout_name_</th>
 							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
 							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<!-- Intermediate Layouts -->
+			<div class='col-lg-4'>
+				<h2>Intermediate Layouts</h2>
+				<table class='table'>
+					<tbody>
+						<tr>
+							<th scope='row'>Agency</th>
+							<td><a href='html/agency/index.html' target='_blank'>html</a></td>
+							<td><a href='php/agency/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Coming Soon</th>
+							<td><a href='html/coming-soon/index.html' target='_blank'>html</a></td>
+							<td><a href='php/coming-soon/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Creative</th>
+							<td><a href='html/creative/index.html' target='_blank'>html</a></td>
+							<td><a href='php/creative/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Freelancer</th>
+							<td><a href='html/freelancer/index.html' target='_blank'>html</a></td>
+							<td><a href='php/freelancer/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Grayscale</th>
+							<td><a href='html/grayscale/index.html' target='_blank'>html</a></td>
+							<td><a href='php/grayscale/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Landing Page</th>
+							<td><a href='html/landing-page/index.html' target='_blank'>html</a></td>
+							<td><a href='php/landing-page/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>New Age</th>
+							<td><a href='html/new-age/index.html' target='_blank'>html</a></td>
+							<td><a href='php/new-age/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>One Page Wonder</th>
+							<td><a href='html/one-page-wonder/index.html' target='_blank'>html</a></td>
+							<td><a href='php/one-page-wonder/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Resume</th>
+							<td><a href='html/resume/index.html' target='_blank'>html</a></td>
+							<td><a href='php/resume/index.php' target='_blank'>php</a></td>
 						</tr>
 					</tbody>
 				</table>
