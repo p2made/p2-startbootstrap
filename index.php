@@ -16,7 +16,7 @@
 	<!-- Responsive navbar-->
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div class="container">
-			<a class="navbar-brand" href="#">Start Bootstrap Themes</a>
+			<span class="navbar-brand">Start Bootstrap Themes</span>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -42,58 +42,40 @@
 	<div class="container">
 
 		<div class="row justify-content-center">
-			<!-- Complex Layouts -->
+			<!-- Basic Layouts -->
 			<div class='col-lg-4'>
-				<h2>Complex Layouts</h2>
+				<h2>Basic Layouts</h2>
 				<table class='table'>
 					<tbody>
 						<tr>
-							<th scope='row'>Business Casual</th>
-							<td><a href='html/business-casual/index.html' target='_blank'>html</a></td>
-							<td><a href='php/business-casual/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Bare</th>
+							<td><a href='html/basic-layouts/bare.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/bare.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Clean Blog</th>
-							<td><a href='html/clean-blog/index.html' target='_blank'>html</a></td>
-							<td><a href='php/clean-blog/index.php' target='_blank'>php</a></td>
+							<th scope='row'>About and Team Section</th>
+							<td><a href='html/basic-layouts/about-and-team-section.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/about-and-team-section.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Modern Business</th>
-							<td><a href='html/modern-business/index.html' target='_blank'>html</a></td>
-							<td><a href='php/modern-business/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Full Page Image HTML Background</th>
+							<td><a href='html/basic-layouts/full-page-image-html-background.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/full-page-image-html-background.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>SB Admin</th>
-							<td><a href='html/sb-admin/index.html' target='_blank'>html</a></td>
-							<td><a href='php/sb-admin/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Full Width Pics</th>
+							<td><a href='html/basic-layouts/full-width-pics.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/full-width-pics.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>SB Admin 2</th>
-							<td><a href='html/sb-admin-2/index.html' target='_blank'>html</a></td>
-							<td><a href='php/sb-admin-2/index.php' target='_blank'>php</a></td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<!-- Layouts -->
-			<div class='col-lg-4'>
-				<h2>Layouts</h2>
-				<table class='table'>
-					<tbody>
-						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Heroic Features</th>
+							<td><a href='html/basic-layouts/heroic-features.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/heroic-features.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>The Big Picture</th>
+							<td><a href='html/basic-layouts/the-big-picture.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/the-big-picture.php' target='_blank'>php</a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -151,27 +133,60 @@
 					</tbody>
 				</table>
 			</div>
-		</div>
-		<div class="row justify-content-center">
-			<!-- Basic Layouts -->
+			<!-- Header & Footer -->
 			<div class='col-lg-4'>
-				<h2>Basic Layouts</h2>
+				<h2>Header &amp; Footer</h2>
 				<table class='table'>
 					<tbody>
 						<tr>
-							<th scope='row'>Bare</th>
-							<td><a href='html/basic-layouts/bare.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/bare.php' target='_blank'>php</a></td>
+							<th scope='row'>Flexbox Sticky Footer</th>
+							<td><a href='html/basic-layouts/flexbox-sticky-footer.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/flexbox-sticky-footer.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Blog Home</th>
-							<td><a href='html/basic-layouts/blog-home.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/blog-home.php' target='_blank'>php</a></td>
+							<th scope='row'>Full Page Image Header</th>
+							<td><a href='html/basic-layouts/full-page-image-header.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/full-page-image-header.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Blog Post</th>
-							<td><a href='html/basic-layouts/blog-post.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/blog-post.php' target='_blank'>php</a></td>
+							<th scope='row'>Full Page Image Slider Header</th>
+							<td><a href='html/basic-layouts/full-page-image-slider-header.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/full-page-image-slider-header.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Half Page Image Slider Header</th>
+							<td><a href='html/basic-layouts/half-page-image-slider-header.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/half-page-image-slider-header.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Video Background Header</th>
+							<td><a href='html/basic-layouts/video-background-header.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/video-background-header.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Image Gallery With Thumbnails</th>
+							<td><a href='html/basic-layouts/image-gallery-with-thumbnails.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/image-gallery-with-thumbnails.php' target='_blank'>php</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<!-- Business -->
+			<div class='col-lg-4'>
+				<h2>Business</h2>
+				<table class='table'>
+					<tbody>
+						<tr>
+							<th scope='row'>Business Casual</th>
+							<td><a href='html/business-casual/index.html' target='_blank'>html</a></td>
+							<td><a href='php/business-casual/index.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Modern Business</th>
+							<td><a href='html/modern-business/index.html' target='_blank'>html</a></td>
+							<td><a href='php/modern-business/index.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
 							<th scope='row'>Business Frontpage</th>
@@ -179,19 +194,14 @@
 							<td><a href='php/basic-layouts/business-frontpage.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Full Width Pics</th>
-							<td><a href='html/basic-layouts/full-width-pics.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/full-width-pics.php' target='_blank'>php</a></td>
+							<th scope='row'>Small Business</th>
+							<td><a href='html/basic-layouts/small-business.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/small-business.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>Heroic Features</th>
-							<td><a href='html/basic-layouts/heroic-features.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/heroic-features.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Scrolling Nav</th>
-							<td><a href='html/basic-layouts/scrolling-nav.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/scrolling-nav.php' target='_blank'>php</a></td>
+							<th scope='row'>Responsive Pricing Table</th>
+							<td><a href='html/basic-layouts/responsive-pricing-table.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/responsive-pricing-table.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
 							<th scope='row'>Shop Homepage</th>
@@ -203,130 +213,12 @@
 							<td><a href='html/basic-layouts/shop-item.html' target='_blank'>html</a></td>
 							<td><a href='php/basic-layouts/shop-item.php' target='_blank'>php</a></td>
 						</tr>
-						<tr>
-							<th scope='row'>Simple Sidebar</th>
-							<td><a href='html/basic-layouts/simple-sidebar.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/simple-sidebar.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Small Business</th>
-							<td><a href='html/basic-layouts/small-business.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/small-business.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>The Big Picture</th>
-							<td><a href='html/basic-layouts/the-big-picture.html' target='_blank'>html</a></td>
-							<td><a href='php/basic-layouts/the-big-picture.php' target='_blank'>php</a></td>
-						</tr>
 					</tbody>
 				</table>
 			</div>
-			<!-- Snippet Layouts -->
+			<!-- Portfolio -->
 			<div class='col-lg-4'>
-				<h2>Snippet Layouts</h2>
-				<table class='table'>
-					<tbody>
-						<tr>
-							<th scope='row'>Registration Page With Floating Labels</th>
-							<td><a href='html/snippets/registration-page-with-floating-labels.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/registration-page-with-floating-labels.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Responsive Pricing Table</th>
-							<td><a href='html/snippets/responsive-pricing-table.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/responsive-pricing-table.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Video Background Header</th>
-							<td><a href='html/snippets/video-background-header.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/video-background-header.php' target='_blank'>php</a></td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<!-- Snippet Layouts (checked) -->
-			<div class='col-lg-4'>
-				<h2>Snippet Layouts (checked)</h2>
-				<table class='table'>
-					<tbody>
-						<tr>
-							<th scope='row'>About and Team Section</th>
-							<td><a href='html/snippets/about-and-team-section.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/about-and-team-section.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Contact Form Split Image Layout</th>
-							<td><a href='html/snippets/contact-form-split-image-layout.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/contact-form-split-image-layout.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Contact Form With Validation</th>
-							<td><a href='html/snippets/contact-form-with-validation.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/contact-form-with-validation.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Dropdown Menu Animation Navbar</th>
-							<td><a href='html/snippets/dropdown-menu-animation-navbar.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/dropdown-menu-animation-navbar.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Flexbox Sticky Footer</th>
-							<td><a href='html/snippets/flexbox-sticky-footer.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/flexbox-sticky-footer.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Full Page Image Header</th>
-							<td><a href='html/snippets/full-page-image-header.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/full-page-image-header.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Full Page Image HTML Background</th>
-							<td><a href='html/snippets/full-page-image-html-background.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/full-page-image-html-background.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Full Page Image Slider Header</th>
-							<td><a href='html/snippets/full-page-image-slider-header.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/full-page-image-slider-header.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Half Page Image Slider Header</th>
-							<td><a href='html/snippets/half-page-image-slider-header.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/half-page-image-slider-header.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Image Gallery With Thumbnails</th>
-							<td><a href='html/snippets/image-gallery-with-thumbnails.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/image-gallery-with-thumbnails.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Login Form With Floating Labels</th>
-							<td><a href='html/snippets/login-form-with-floating-labels.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/login-form-with-floating-labels.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Modern Sign in Page With Split Screen Format</th>
-							<td><a href='html/snippets/modern-sign-in-page-with-split-screen-format.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/modern-sign-in-page-with-split-screen-format.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Navbar With Logo Image</th>
-							<td><a href='html/snippets/navbar-with-logo-image.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/navbar-with-logo-image.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>Portfolio Item Details Page</th>
-							<td><a href='html/snippets/portfolio-item-details-page.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/portfolio-item-details-page.php' target='_blank'>php</a></td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>
-		<div class="row justify-content-center">
-			<!-- Portfolio Layouts -->
-			<div class='col-lg-4'>
-				<h2>Portfolio Layouts</h2>
+				<h2>Portfolio</h2>
 				<table class='table'>
 					<tbody>
 						<tr>
@@ -335,129 +227,194 @@
 							<td><a href='php/stylish-portfolio/index.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>1 Column Portfolio Layout</th>
-							<td><a href='html/snippets/1-column-portfolio-layout.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/1-column-portfolio-layout.php' target='_blank'>php</a></td>
+							<th scope='row'>Portfolio Item Details Page</th>
+							<td><a href='html/basic-layouts/portfolio-item-details-page.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/portfolio-item-details-page.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>2 Column Portfolio Layout</th>
-							<td><a href='html/snippets/2-column-portfolio-layout.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/2-column-portfolio-layout.php' target='_blank'>php</a></td>
+							<th scope='row'>1 Column Portfolio</th>
+							<td><a href='html/basic-layouts/1-column-portfolio.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/1-column-portfolio.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>3 Column Portfolio Layout</th>
-							<td><a href='html/snippets/3-column-portfolio-layout.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/3-column-portfolio-layout.php' target='_blank'>php</a></td>
+							<th scope='row'>2 Column Portfolio</th>
+							<td><a href='html/basic-layouts/2-column-portfolio.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/2-column-portfolio.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>4 Column Portfolio Layout</th>
-							<td><a href='html/snippets/4-column-portfolio-layout.html' target='_blank'>html</a></td>
-							<td><a href='php/snippets/4-column-portfolio-layout.php' target='_blank'>php</a></td>
+							<th scope='row'>3 Column Portfolio</th>
+							<td><a href='html/basic-layouts/3-column-portfolio.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/3-column-portfolio.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>4 Column Portfolio</th>
+							<td><a href='html/basic-layouts/4-column-portfolio.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/4-column-portfolio.php' target='_blank'>php</a></td>
 						</tr>
 					</tbody>
 				</table>
 			</div>
-			<!-- Layouts -->
+			<!-- Admin / Blog -->
 			<div class='col-lg-4'>
-				<h2>Layouts</h2>
+				<h2>Admin</h2>
 				<table class='table'>
 					<tbody>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>SB Admin</th>
+							<td><a href='html/sb-admin/index.html' target='_blank'>html</a></td>
+							<td><a href='php/sb-admin/index.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
-						</tr>
-						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>SB Admin <sup>2</sup></th>
+							<td><a href='html/sb-admin-2/index.html' target='_blank'>html</a></td>
+							<td><a href='php/sb-admin-2/index.php' target='_blank'>php</a></td>
 						</tr>
 					</tbody>
 				</table>
-			</div>
-			<!-- Layouts -->
-			<div class='col-lg-4'>
-				<h2>Layouts</h2>
+				<h2>Blog</h2>
 				<table class='table'>
 					<tbody>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Clean Blog</th>
+							<td><a href='html/clean-blog/index.html' target='_blank'>html</a></td>
+							<td><a href='php/clean-blog/index.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Blog Home</th>
+							<td><a href='html/basic-layouts/blog-home.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/blog-home.php' target='_blank'>php</a></td>
 						</tr>
 						<tr>
-							<th scope='row'>_layout_name_</th>
-							<td><a href='html/_layout_name_/index.html' target='_blank'>html</a></td>
-							<td><a href='php/_layout_name_/index.php' target='_blank'>php</a></td>
+							<th scope='row'>Blog Post</th>
+							<td><a href='html/basic-layouts/blog-post.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/blog-post.php' target='_blank'>php</a></td>
 						</tr>
 					</tbody>
 				</table>
 			</div>
+		</div>
+		<div class="row justify-content-center">
+			<!-- Navigation -->
+			<div class='col-lg-4'>
+				<h2>Navigation</h2>
+				<table class='table'>
+					<tbody>
+						<tr>
+							<th scope='row'>Dropdown Menu Animation Navbar</th>
+							<td><a href='html/basic-layouts/dropdown-menu-animation-navbar.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/dropdown-menu-animation-navbar.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Navbar With Logo Image</th>
+							<td><a href='html/basic-layouts/navbar-with-logo-image.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/navbar-with-logo-image.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Scrolling Nav</th>
+							<td><a href='html/basic-layouts/scrolling-nav.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/scrolling-nav.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Simple Sidebar</th>
+							<td><a href='html/basic-layouts/simple-sidebar.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/simple-sidebar.php' target='_blank'>php</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<!-- Forms -->
+			<div class='col-lg-4'>
+				<h2>Forms</h2>
+				<table class='table'>
+					<tbody>
+						<tr>
+							<th scope='row'>Contact Form Split Image</th>
+							<td><a href='html/basic-layouts/contact-form-split-image.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/contact-form-split-image.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Contact Form With Validation</th>
+							<td><a href='html/basic-layouts/contact-form-with-validation.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/contact-form-with-validation.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Login Form With Floating Labels</th>
+							<td><a href='html/basic-layouts/login-form-with-floating-labels.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/login-form-with-floating-labels.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Modern Sign in Page With Split Screen Format</th>
+							<td><a href='html/basic-layouts/modern-sign-in-page-with-split-screen-format.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/modern-sign-in-page-with-split-screen-format.php' target='_blank'>php</a></td>
+						</tr>
+						<tr>
+							<th scope='row'>Registration Page With Floating Labels</th>
+							<td><a href='html/basic-layouts/registration-page-with-floating-labels.html' target='_blank'>html</a></td>
+							<td><a href='php/basic-layouts/registration-page-with-floating-labels.php' target='_blank'>php</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class='col-lg-4'></div>
 		</div>
 
 	</div>
 
 <!--
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-4">
-				Column
-			</div>
-			<div class="col-lg-4">
-				Column
-			</div>
-			<div class="col-lg-4">
-				Column
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-2">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-			<div class="col-lg-2">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-			<div class="col-lg-2">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-			<div class="col-lg-1">
-				Column
-			</div>
-		</div>
+About and Team Section
+Agency
+Bare
+Coming Soon
+Creative
+Dropdown Menu Animation Navbar
+Flexbox Sticky Footer
+Freelancer
+Full Page Image Header
+Full Page Image HTML Background
+Full Page Image Slider Header
+Full Width Pics
+Grayscale
+Half Page Image Slider Header
+Heroic Features
+Image Gallery With Thumbnails
+Landing Page
+Navbar With Logo Image
+New Age
+One Page Wonder
+Resume
+Scrolling Nav
+Simple Sidebar
+The Big Picture
+Video Background Header
 
-		<div class='col-lg-4'>
-			<h2>New Layouts</h2>
-			<table class='table'>
-				<tbody>
-				</tbody>
-			</table>
-		</div>
-	</div>
+
+Stylish Portfolio
+Portfolio Item Details Page
+1 Column Portfolio Layout
+2 Column Portfolio Layout
+3 Column Portfolio Layout
+4 Column Portfolio Layout
+
+Clean Blog
+Blog Home
+Blog Post
+
+Business Casual
+Modern Business
+Business Frontpage
+Small Business
+Responsive Pricing Table
+Shop Homepage
+Shop Item
+
+SB Admin
+SB Admin 2
+
+Contact Form Split Image Layout
+Contact Form With Validation
+Login Form With Floating Labels
+Modern Sign in Page With Split Screen Format
+Registration Page With Floating Labels
   -->
 
 	<!-- Bootstrap core JS-->
