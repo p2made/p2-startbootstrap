@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>video-background-header</title>
+	<title>Video Background Header</title>
 	<!-- Favicon-->
 	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
 	<!-- Core theme CSS (includes Bootstrap)-->
