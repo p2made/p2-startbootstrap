@@ -10,7 +10,6 @@
 	<link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 	<!-- Core theme CSS (includes Bootstrap)-->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-	<link href="assets/css/bare.css" rel="stylesheet">
 </head>
 <body>
 	<!-- Responsive navbar-->
@@ -360,68 +359,7 @@
 
 	</div>
 
-<!--
-About and Team Section
-Agency
-Bare
-Coming Soon
-Creative
-Dropdown Menu Animation Navbar
-Flexbox Sticky Footer
-Freelancer
-Full Page Image Header
-Full Page Image HTML Background
-Full Page Image Slider Header
-Full Width Pics
-Grayscale
-Half Page Image Slider Header
-Heroic Features
-Image Gallery With Thumbnails
-Landing Page
-Navbar With Logo Image
-New Age
-One Page Wonder
-Resume
-Scrolling Nav
-Simple Sidebar
-The Big Picture
-Video Background Header
-
-
-Stylish Portfolio
-Portfolio Item Details Page
-1 Column Portfolio Layout
-2 Column Portfolio Layout
-3 Column Portfolio Layout
-4 Column Portfolio Layout
-
-Clean Blog
-Blog Home
-Blog Post
-
-Business Casual
-Modern Business
-Business Frontpage
-Small Business
-Responsive Pricing Table
-Shop Homepage
-Shop Item
-
-SB Admin
-SB Admin 2
-
-Contact Form Split Image Layout
-Contact Form With Validation
-Login Form With Floating Labels
-Modern Sign in Page With Split Screen Format
-Registration Page With Floating Labels
-  -->
-
 	<!-- Bootstrap core JS-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-	<!-- Core theme JS-->
-	<script src="p2-startbootstrap/assets/js/bare.js"></script>
 </body>
 </html>
-
-
