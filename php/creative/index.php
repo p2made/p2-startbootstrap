@@ -5,9 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Creative</title>
+	<title>Creative - Start Bootstrap Theme</title>
 	<!-- Favicon-->
-	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
+	<link href="assets/img/favicon.ico" rel="icon" type="image/x-icon">
+	<!-- Core theme CSS (includes Bootstrap)-->
+	<link href="assets/css/styles.css" rel="stylesheet">
 	<!-- Bootstrap Icons-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
 	<!-- Google fonts-->
@@ -15,9 +17,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
 	<!-- SimpleLightbox plugin CSS-->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet">
-	<!-- Core theme CSS (includes Bootstrap)-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body id="page-top">
 	<!-- Navigation-->
@@ -35,6 +34,7 @@
 			</div>
 		</div>
 	</nav>
+
 	<!-- Masthead-->
 	<header class="masthead">
 		<div class="container px-4 px-lg-5 h-100">
@@ -50,6 +50,7 @@
 			</div>
 		</div>
 	</header>
+
 	<!-- About-->
 	<section class="page-section bg-primary" id="about">
 		<div class="container px-4 px-lg-5">
@@ -63,6 +64,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Services-->
 	<section class="page-section" id="services">
 		<div class="container px-4 px-lg-5">
@@ -100,6 +102,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Portfolio-->
 	<div id="portfolio">
 		<div class="container-fluid p-0">
@@ -161,6 +164,7 @@
 			</div>
 		</div>
 	</div>
+
 	<!-- Call to action-->
 	<section class="page-section bg-dark text-white">
 		<div class="container px-4 px-lg-5 text-center">
@@ -168,6 +172,7 @@
 			<a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
 		</div>
 	</section>
+
 	<!-- Contact-->
 	<section class="page-section" id="contact">
 		<div class="container px-4 px-lg-5">
@@ -243,18 +248,21 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Footer-->
 	<footer class="bg-light py-5">
 		<div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Company Name</div></div>
 	</footer>
+
 	<!-- Bootstrap core JS-->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 	<!-- SimpleLightbox plugin JS-->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
 	<!-- Core theme JS-->
 	<script src="assets/js/scripts.js"></script>
 	<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-	<!-- * *							   SB Forms JS							   * *-->
+	<!-- * *                               SB Forms JS                               * *-->
 	<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
 	<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 	<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>

@@ -7,8 +7,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<title>404 Error - SB Admin</title>
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/styles.css" rel="stylesheet">
+	<link href="assets/css/styles.min.css" rel="stylesheet">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -46,6 +45,9 @@
 			</footer>
 		</div>
 	</div>
+
+	<!-- Bootstrap core JS-->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 	<script src="assets/js/scripts.js"></script>
 </body>

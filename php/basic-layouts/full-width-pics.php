@@ -5,12 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Full Width Pics</title>
+	<title>Full Width Pics - Start Bootstrap Template</title>
 	<!-- Favicon-->
-	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
+	<link href="assets/img/favicon.ico" rel="icon" type="image/x-icon">
 	<!-- Core theme CSS (includes Bootstrap)-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/full-width-pics.css" rel="stylesheet">
+	<link href="assets/css/full-width-pics.min.css" rel="stylesheet">
 </head>
 <body>
 	<!-- Responsive navbar-->
@@ -27,6 +26,7 @@
 			</div>
 		</div>
 	</nav>
+
 	<!-- Header - set the background image for the header in the line below-->
 	<header class="py-5 bg-image-full" style="background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1600x900')">
 		<div class="text-center my-5">
@@ -35,6 +35,7 @@
 			<p class="text-white-50 mb-0">Landing Page Template</p>
 		</div>
 	</header>
+
 	<!-- Content section-->
 	<section class="py-5">
 		<div class="container my-5">
@@ -47,11 +48,13 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Image element - set the background image for the header in the line below-->
 	<div class="py-5 bg-image-full" style="background-image: url('https://source.unsplash.com/4ulffa6qoKA/1200x800')">
 		<!-- Put anything you want here! The spacer below with inline CSS is just for demo purposes!-->
 		<div style="height: 20rem"></div>
 	</div>
+
 	<!-- Content section-->
 	<section class="py-5">
 		<div class="container my-5">
@@ -64,12 +67,15 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Footer-->
 	<footer class="py-5 bg-dark">
 		<div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2021</p></div>
 	</footer>
+
 	<!-- Bootstrap core JS-->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 	<!-- Core theme JS-->
 	<script src="assets/js/full-width-pics.js"></script>
 </body>

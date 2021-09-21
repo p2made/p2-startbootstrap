@@ -5,16 +5,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Landing Page</title>
+	<title>Landing Page - Start Bootstrap Theme</title>
 	<!-- Favicon-->
-	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
+	<link href="assets/img/favicon.ico" rel="icon" type="image/x-icon">
+	<!-- Core theme CSS (includes Bootstrap)-->
+	<link href="assets/css/styles.css" rel="stylesheet">
 	<!-- Bootstrap icons-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" type="text/css">
 	<!-- Google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-	<!-- Core theme CSS (includes Bootstrap)-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body>
 	<!-- Navigation-->
@@ -24,6 +23,7 @@
 			<a class="btn btn-primary" href="#signup">Sign Up</a>
 		</div>
 	</nav>
+
 	<!-- Masthead-->
 	<header class="masthead">
 		<div class="container position-relative">
@@ -72,6 +72,7 @@
 			</div>
 		</div>
 	</header>
+
 	<!-- Icons Grid-->
 	<section class="features-icons bg-light text-center">
 		<div class="container">
@@ -100,6 +101,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Image Showcases-->
 	<section class="showcase">
 		<div class="container-fluid p-0">
@@ -126,6 +128,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Testimonials-->
 	<section class="testimonials text-center bg-light">
 		<div class="container">
@@ -155,6 +158,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Call to Action-->
 	<section class="call-to-action text-white text-center" id="signup">
 		<div class="container position-relative">
@@ -200,6 +204,7 @@
 			</div>
 		</div>
 	</section>
+
 	<!-- Footer-->
 	<footer class="footer bg-light">
 		<div class="container">
@@ -232,12 +237,14 @@
 			</div>
 		</div>
 	</footer>
+
 	<!-- Bootstrap core JS-->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 	<!-- Core theme JS-->
 	<script src="assets/js/scripts.js"></script>
 	<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-	<!-- * *							   SB Forms JS							   * *-->
+	<!-- * *                               SB Forms JS                               * *-->
 	<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
 	<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 	<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>

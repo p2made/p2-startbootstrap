@@ -5,16 +5,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Business Casual</title>
-	<link href="assets/img/favicon.ico" type="image/x-icon" rel="icon">
+	<title>Business Casual - Start Bootstrap Theme</title>
+	<link href="assets/img/favicon.ico" rel="icon" type="image/x-icon">
+	<!-- Core theme CSS (includes Bootstrap)-->
+	<link href="assets/css/styles.css" rel="stylesheet">
 	<!-- Font Awesome icons (free version)-->
-	<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous" rel="stylesheet">
+	<script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 	<!-- Google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
-	<!-- Core theme CSS (includes Bootstrap)-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" rel="stylesheet">
-	<link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body>
 	<header>
@@ -23,10 +22,11 @@
 			<span class="site-heading-lower">Business Casual</span>
 		</h1>
 	</header>
+
 	<!-- Navigation-->
 	<nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
 		<div class="container">
-			<a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.php">Business</a>
+			<a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.php">Start Bootstrap</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mx-auto">
@@ -38,6 +38,7 @@
 			</div>
 		</div>
 	</nav>
+
 	<section class="page-section clearfix">
 		<div class="container">
 			<div class="intro">
@@ -71,8 +72,10 @@
 	<footer class="footer text-faded text-center py-5">
 		<div class="container"><p class="m-0 small">Copyright &copy; Your Website 2021</p></div>
 	</footer>
+
 	<!-- Bootstrap core JS-->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 	<!-- Core theme JS-->
 	<script src="assets/js/scripts.js"></script>
 </body>
