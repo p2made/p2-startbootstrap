@@ -103,12 +103,14 @@ $templates = [
 			['name' => 'Registration Page With Floating Labels', 'slug' => 'registration-page-with-floating-labels', 'path' => 'forms'],
 		],
 	],
+	/*
 	[
 		'name' => 'Review',
 		'slug' => 'review',
 		'data' => [
 		],
 	],
+	 */
 ];
 ?>
 <html lang="en">
